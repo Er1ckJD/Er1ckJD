@@ -25,7 +25,7 @@ i use, java, python, css, html, javascript, node, linux, etc
 | **Rental API** | API REST completa para servicios de renta. | `Java` `Spring Boot` `Railway` |
 | **Pet Care App** | Análisis de mercado y prototipo para cuidado de mascotas. | `Business Analysis` `React Native` |
 | **Conexión Digital 2026** | Planificación de foro sobre IA Generativa y Futuro del Trabajo. | `Project Management` |
-Web --------> https://darw1n-wine.vercel.app/
+Web --------> | `[Project Management](https://darw1n-wine.vercel.app/)` |
 
 ---
 
